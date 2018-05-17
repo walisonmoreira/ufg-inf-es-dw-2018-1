@@ -2,4 +2,4 @@
 
 Para executar a aplicação:
 
-`mvn org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run`
+`mvn tomcat7:run`
