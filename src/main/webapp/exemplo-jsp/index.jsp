@@ -26,7 +26,10 @@
             </form>
 <%
 //Início do scriptlet.
+
+//Pegar o parâmetro "idade".
 String idadeStr = request.getParameter("idade");
+
 String mensagem = "Informe a idade.";
 if (idadeStr != null && !idadeStr.isEmpty()) {
     int idade = Integer.parseInt(idadeStr);
