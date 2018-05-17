@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Alo mundo!</h2>
-<h3><%=new java.util.Date()%></h3>
+  <h1>ES-DW</h1>
+  <a href="exemplo-jsp/index.jsp">Exemplo JSP</a>
 </body>
 </html>

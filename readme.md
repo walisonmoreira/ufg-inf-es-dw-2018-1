@@ -3,3 +3,6 @@
 Para executar a aplicação:
 
 `mvn tomcat7:run`
+
+Pasta para colocar conteúdo web: `src/main/webapp`
+
