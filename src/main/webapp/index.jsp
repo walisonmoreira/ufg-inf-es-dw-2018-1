@@ -5,6 +5,7 @@
   <br>
   <!-- Mapeamento (rota) para o servlet VendaController. -->
   <a href="venda-mvc/venda">Venda</a>
-  
+  <br>
+  <a href="dbclient.jsp">DBClient</a>
 </body>
 </html>
