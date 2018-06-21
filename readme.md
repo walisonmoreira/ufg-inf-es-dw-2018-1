@@ -10,7 +10,7 @@
 
 `mvn tomcat7:run`
 
-## Para executar o Derby
+## Para executar o banco de dados Derby
 
 `mvn exec:java@derby-start`
 
@@ -18,7 +18,7 @@
 
 ### JDBC
 
-URL: `jdbc:derby://localhost:1527/vendadb`
+URL: `jdbc:derby://localhost:1527/vendadb;create=true`
 
 Usuário: `app`
 

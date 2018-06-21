@@ -42,8 +42,8 @@
                   placeholder="Quantidade"
                   class="form-control">
               </div>
-              <button name="op" value="incluir" class="btn btn-default">Incluir</button>
-              <button name="op" value="salvar" class="btn btn-default">Salvar</button>
+              <button name="op" value="incluir" class="btn btn-default">Incluir Novo</button>
+              <button name="op" value="salvar" class="btn btn-default">Salvar Atual</button>
             </form>
           </div>
         </div>
