@@ -4,7 +4,7 @@
 
 `pom.xml` - Arquivo de configuração do projeto Maven.
 
-`src/main/webapp` - Pasta para colocar conteúdo web. 
+`src/main/webapp` - Pasta para colocar conteúdo web.
 
 ## Para executar o Tomcat
 
